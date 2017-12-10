@@ -12,7 +12,7 @@ const About = () => (
       past several months getting caught up on everything new.
     </p>
     <p>
-      I am now looking to resume my carrer in web development.
+      I am now looking to resume my career in web development.
     </p>
   </section>
 );
